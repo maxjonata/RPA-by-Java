@@ -1,0 +1,6 @@
+com\maxjonata\App.class
+com\maxjonata\data\Product.class
+com\maxjonata\domain\Product.class
+com\maxjonata\domain\Scrapper.class
+com\maxjonata\adapters\CreateWebClient.class
+com\maxjonata\controllers\Scrapper.class
