@@ -2,5 +2,7 @@ C:\Users\jonh_\code\FinchTest\RPA-by-Java\src\main\java\com\maxjonata\data\Produ
 C:\Users\jonh_\code\FinchTest\RPA-by-Java\src\main\java\com\maxjonata\App.java
 C:\Users\jonh_\code\FinchTest\RPA-by-Java\src\main\java\com\maxjonata\domain\Scrapper.java
 C:\Users\jonh_\code\FinchTest\RPA-by-Java\src\main\java\com\maxjonata\controllers\Scrapper.java
+C:\Users\jonh_\code\FinchTest\RPA-by-Java\src\main\java\com\maxjonata\adapters\CreateChromeDriver.java
 C:\Users\jonh_\code\FinchTest\RPA-by-Java\src\main\java\com\maxjonata\domain\Product.java
-C:\Users\jonh_\code\FinchTest\RPA-by-Java\src\main\java\com\maxjonata\adapters\CreateWebClient.java
+C:\Users\jonh_\code\FinchTest\RPA-by-Java\src\main\java\com\maxjonata\adapters\Logger.java
+C:\Users\jonh_\code\FinchTest\RPA-by-Java\src\main\java\com\maxjonata\domain\Logger.java
